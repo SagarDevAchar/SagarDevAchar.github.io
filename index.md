@@ -73,7 +73,7 @@ The **Steganography Made Fun!** Toolkit is a 3 part project which aims to simpli
 - Part 2: [The MP3 Photographer](https://sagardevachar.github.io/TheMP3Photographer/)
 - Part 3: [The PNG Musician](https://sagardevachar.github.io/ThePNGMusician/)
 
-![TPM TMP Logo 0](https://user-images.githubusercontent.com/51400137/184077734-01c4a017-067f-47ea-bf25-d75eba3caf6a.png)
+[![TPM TMP Logo 0](https://user-images.githubusercontent.com/51400137/184077734-01c4a017-067f-47ea-bf25-d75eba3caf6a.png)](https://sagardevachar.github.io/TheTXTHider/)
 
 **TicTacToe : One-Up Edition**, an Improved Version of the Classic (yet boring) Tic Tac Toe (also known as Noughts and Crosses or XOX)  is now **LIVE** on *Google Play Store* (under the brand name *[Moonlight App Studios](https://play.google.com/store/apps/dev?id=5751796953368988342)*)
 
