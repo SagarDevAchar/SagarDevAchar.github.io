@@ -2,9 +2,7 @@
 REFERENCE: https://github.com/itsZed0/itsZed0/blob/main/README.md?plain=1
 -->
 
-## Hey there, I'm Sagar 👋
-
-A 21-year old Self-taught **Coder** and **Maker** who is Coding and Making stuff since 2015 💻⚡
+### My Skillset ⚡
 
 ![SagarDevAchar's Skillset](https://user-images.githubusercontent.com/51400137/148717363-56207417-0b41-4d9c-a3a7-ed313be2b546.png)
 
