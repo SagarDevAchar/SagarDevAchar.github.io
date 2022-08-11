@@ -59,14 +59,21 @@ Here are a few **stats** of the work I've done (as of 25th July 2022, generated 
 </a>
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SagarDevAchar&theme=merko&hide_border=true&count_private=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SagarDevAchar&hide_border=true&count_private=true)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SagarDevAchar&theme=merko&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SagarDevAchar&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarDevAchar&theme=merko&show_icons=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarDevAchar&show_icons=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Recent Activity 🔥
+
+The **Steganography Made Fun!** Toolkit is a 3 part project which aims to simplify Steganography and make it fun
+- Part 1: [The TXT Hider](https://sagardevachar.github.io/TheTXTHider/)
+- Part 2: [The MP3 Photographer](https://sagardevachar.github.io/TheMP3Photographer/)
+- Part 3: [The PNG Musician](https://sagardevachar.github.io/ThePNGMusician/)
+
+![TPM TMP Logo 0](https://user-images.githubusercontent.com/51400137/184077734-01c4a017-067f-47ea-bf25-d75eba3caf6a.png)
 
 **TicTacToe : One-Up Edition**, an Improved Version of the Classic (yet boring) Tic Tac Toe (also known as Noughts and Crosses or XOX)  is now **LIVE** on *Google Play Store* (under the brand name *[Moonlight App Studios](https://play.google.com/store/apps/dev?id=5751796953368988342)*)
 
@@ -93,32 +100,32 @@ You can check out the app [here](https://play.google.com/store/apps/details?id=c
 - Image Processing and Compression using Transform Calculus
 
 ### My Social Presence 📫
-[LinkedIn](https://www.linkedin.com/in/sagar-dev-achar/)
+[ LinkedIn](https://www.linkedin.com/in/sagar-dev-achar/)
 <a href="https://www.linkedin.com/in/sagar-dev-achar/">
   <img align="left" alt="Sagar Dev Achar on LinkedIn" width="25px" src="https://user-images.githubusercontent.com/51400137/116963311-2473c100-acc6-11eb-92eb-aa2231826fa1.png"/>
 </a>
 
-[Google Developers](https://developers.google.com/profile/u/110898118534920237945)
+[ Google Developers](https://developers.google.com/profile/u/110898118534920237945)
 <a href="https://developers.google.com/profile/u/110898118534920237945">
   <img align="left" alt="Sagar Dev Achar on Google Developers" width="25px" src="https://developers.google.com/site-assets/developers_64dp_480.png"/>
 </a>
 
-[Stack Overflow](https://stackoverflow.com/users/9939262/sagar)
+[ Stack Overflow](https://stackoverflow.com/users/9939262/sagar)
 <a href="https://stackoverflow.com/users/9939262/sagar">
   <img align="left" alt="Sagar Dev Achar on Stack Overflow" width="25px" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/icon-48.png"/>
 </a>
 
-[Google Play](https://play.google.com/store/apps/dev?id=5751796953368988342)
+[ Google Play](https://play.google.com/store/apps/dev?id=5751796953368988342)
 <a href="https://play.google.com/store/apps/dev?id=5751796953368988342">
   <img align="left" alt="AndroDevSDA on Google Play" width="25px" src="https://www.gstatic.com/images/branding/product/2x/play_prism_64dp.png"/>
 </a>
 
-[My Music on Instagram](https://www.instagram.com/1498.wav/)
+[ My Music on Instagram](https://www.instagram.com/1498.wav/)
 <a href="https://www.instagram.com/1498.wav/">
   <img align="left" alt="0x5DA on Instagram" width="25px" src="https://duckduckgo.com/assets/icons/thirdparty/instagram.svg"/>
 </a>
 
-[My Animations on Instagram](https://www.instagram.com/looooopz.aep/)
+[ My Animations on Instagram](https://www.instagram.com/looooopz.aep/)
 <a href="https://www.instagram.com/looooopz.aep/">
   <img align="left" alt="0x5DA on Instagram" width="25px" src="https://duckduckgo.com/assets/icons/thirdparty/instagram.svg"/>
 </a>
