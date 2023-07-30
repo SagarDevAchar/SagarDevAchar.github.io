@@ -2,9 +2,13 @@
 REFERENCE: https://github.com/itsZed0/itsZed0/blob/main/README.md?plain=1
 -->
 
-### My Skillset ⚡
+## Hey there, I'm Sagar 👋
+
+A 21-year old Self-taught **Coder** and **Maker** who is Coding and Making stuff since 2015 💻⚡
 
 ![SagarDevAchar's Skillset](https://user-images.githubusercontent.com/51400137/148717363-56207417-0b41-4d9c-a3a7-ed313be2b546.png)
+
+### My Stats 🔥
 
 Here are a few **stats** of the work I've done (as of 25th July 2022, generated using *[CodeCounter](https://github.com/SagarDevAchar/CodeCounter)*):
 <table>
@@ -46,8 +50,6 @@ Here are a few **stats** of the work I've done (as of 25th July 2022, generated 
 </tbody>
 </table>
 
-### My Stats 🔥
-
 <!--
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SagarDevAchar&theme=great-gatsby&hide_border=true" />
@@ -57,11 +59,11 @@ Here are a few **stats** of the work I've done (as of 25th July 2022, generated 
 </a>
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SagarDevAchar&hide_border=true&count_private=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SagarDevAchar&theme=great-gatsby&hide_border=true&count_private=true)](https://git.io/streak-stats) -->
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SagarDevAchar&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/)
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SagarDevAchar&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarDevAchar&show_icons=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarDevAchar&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Recent Activity 🔥
@@ -98,32 +100,32 @@ You can check out the app [here](https://play.google.com/store/apps/details?id=c
 - Image Processing and Compression using Transform Calculus
 
 ### My Social Presence 📫
-[ LinkedIn](https://www.linkedin.com/in/sagar-dev-achar/)
+[LinkedIn](https://www.linkedin.com/in/sagar-dev-achar/)
 <a href="https://www.linkedin.com/in/sagar-dev-achar/">
-  <img align="left" alt="Sagar Dev Achar on LinkedIn" width="25px" src="https://user-images.githubusercontent.com/51400137/116963311-2473c100-acc6-11eb-92eb-aa2231826fa1.png"/>
+  <img align="left" alt="Sagar Dev Achar on LinkedIn" width="25px" src="https://github.com/SagarDevAchar/SagarDevAchar/assets/51400137/5c00d60e-8735-4349-8eed-3a4ddbf4feda"/>
 </a>
 
-[ Google Developers](https://developers.google.com/profile/u/110898118534920237945)
+[Google Developers](https://developers.google.com/profile/u/110898118534920237945)
 <a href="https://developers.google.com/profile/u/110898118534920237945">
   <img align="left" alt="Sagar Dev Achar on Google Developers" width="25px" src="https://developers.google.com/site-assets/developers_64dp_480.png"/>
 </a>
 
-[ Stack Overflow](https://stackoverflow.com/users/9939262/sagar)
+[Stack Overflow](https://stackoverflow.com/users/9939262/sagar)
 <a href="https://stackoverflow.com/users/9939262/sagar">
   <img align="left" alt="Sagar Dev Achar on Stack Overflow" width="25px" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/icon-48.png"/>
 </a>
 
-[ Google Play](https://play.google.com/store/apps/dev?id=5751796953368988342)
+[Google Play](https://play.google.com/store/apps/dev?id=5751796953368988342)
 <a href="https://play.google.com/store/apps/dev?id=5751796953368988342">
   <img align="left" alt="AndroDevSDA on Google Play" width="25px" src="https://www.gstatic.com/images/branding/product/2x/play_prism_64dp.png"/>
 </a>
 
-[ My Music on Instagram](https://www.instagram.com/1498.wav/)
+[My Music on Instagram](https://www.instagram.com/1498.wav/)
 <a href="https://www.instagram.com/1498.wav/">
   <img align="left" alt="0x5DA on Instagram" width="25px" src="https://duckduckgo.com/assets/icons/thirdparty/instagram.svg"/>
 </a>
 
-[ My Animations on Instagram](https://www.instagram.com/looooopz.aep/)
-<a href="https://www.instagram.com/looooopz.aep/">
-  <img align="left" alt="0x5DA on Instagram" width="25px" src="https://duckduckgo.com/assets/icons/thirdparty/instagram.svg"/>
+[My Research Work](https://orcid.org/0009-0005-0344-885X)
+<a href="https://orcid.org/0009-0005-0344-885X">
+  <img align="left" alt="Sagar Dev Achar on ORCID" width="25px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg"/>
 </a>
